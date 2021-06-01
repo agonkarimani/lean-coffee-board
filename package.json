@@ -19,7 +19,7 @@
   "author": "Jeremias Erbs <jerry@badabam.de> (https://badabam.de/)",
   "license": "ISC",
   "dependencies": {
-    "express": "5.0.0-alpha.8",
+    "express": "^5.0.0-alpha.8",
     "mongodb": "3.6.9",
     "morgan": "1.10.0",
     "uuid": "8.3.2"
